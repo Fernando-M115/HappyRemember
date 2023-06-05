@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Happy Remember</string>
+    <string name="boton_lista">Lista de Cumpleaños</string>
+    <string name="add_cumple">Añadir Cumpleaños</string>
+    <string name="add_cumple_message">Porfavor, captura los datos siguientes:</string>
+    <string name="Txt_nombre">Nombre Completo:</string>
+    <string name="edit_txt_nombre">Nombre Completo</string>
+    <string name="txt_telefono">Telefono:</string>
+    <string name="edit_txt_telefono">Teléfono</string>
+    <string name="txt_fecha_nacimiento">Seleccione la fecha de nacimiento:</string>
+    <string name="txtFecha">Fecha:</string>
+    <string name="btnFecha">Seleccionar Fecha</string>
+    <string name="btn_agregar">Añadir</string>
+    <string name="titulo_app">\"HAPPY REMEMBER\"</string>
+    <string name="noCumple">Hoy no cumple años nadie :(</string>
+    <string name="nombre_completo">Nombre:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="fecha">Fecha:</string>
+    <string name="todo">TODO</string>
+</resources>
